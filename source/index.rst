@@ -21,7 +21,7 @@ Ready to get started? Head on over to :doc:`Setup </setup>`!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    setup
    python_for_r
