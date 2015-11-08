@@ -1,10 +1,10 @@
 
-For R Users
+Note to R Users
 =========================
 
 Welcome R users! 
 
-First, the good news: most of the recent innovations in Python tools for data science were created by frustrated R users, which means you'll find that many of the things you love about R are preserved in Python, while many of the frustrations you may have have been been addressed. Below are some links to great tutorials on Python (no reason to reinvent the wheel), but first let's highlight some of the things you as an R user will find especially useful/surprising. 
+Most of the recent innovations in Python tools for data science were created by frustrated R users, which means you'll find that many of the things you love about R are preserved in Python, while many of the frustrations you may have have been been addressed. Below are some links to great tutorials on Python (no reason to reinvent the wheel), but first let's highlight some of the things you as an R user will find especially useful/surprising. 
 
 * **Analogues for `data.frames` and `vectors` are in `pandas` library, not Python itself**: When you watch basic Python tutorials, you'll find yourself wondering where the vectors and data.frames are -- don't worry! They exist, but they're in a different library called `pandas`, so basic Python tutorials won't talk about them. This site is organized to point you to basic Python tutorials that will just cover what you need to know, then move you to `pandas` tutorials, which is what you'll be using for most of your work. 
 * **What you do is "scientific computing"**: Everyone who uses R does statistics, so everything you find online is probably relevant. Python is a general purpose language, and so lots of the things you'll find online were written for people who are writing webpages or stand-alone applications (Dropbox, for example, is almost entirely Python based). The term for the type of computing you do in this world is "scientific computing". For example, you really don't need to worry about "defining classes", which is something covered at length in a lot of tutorials. 

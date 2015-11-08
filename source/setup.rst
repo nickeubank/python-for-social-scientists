@@ -1,6 +1,6 @@
 
-Getting Started with Python
-===========================
+1. Setting Up Python
+==============================
 
 
 

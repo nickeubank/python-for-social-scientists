@@ -1,5 +1,5 @@
 
-For Stata Users
+Note to Stata Users
 ============================
 
 Welcome Stata users! 

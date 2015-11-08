@@ -1,3 +1,3 @@
 
-Stats with statsmodels
-======================
+5. Stats with statsmodels
+=========================

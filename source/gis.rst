@@ -1,3 +1,3 @@
 
-GIS in Python
-=============
+7. GIS in Python
+================

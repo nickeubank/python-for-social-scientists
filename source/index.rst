@@ -23,12 +23,15 @@ Contents:
 .. toctree::
    :maxdepth: 1
 
-   setup
+   why_python
    python_for_r
    python_for_stata
-   python_for_newbies
+   setup
+   basic_python
    pandas
+   install_packages
    statsmodels
    seaborn
    igraph
    gis
+   super_fast
