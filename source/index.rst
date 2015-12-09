@@ -19,7 +19,7 @@ This is followed by a series of "topic" pages, which you should feel free to jum
 
 Ready to get started? Head on over to :doc:`Setup </1_setup>`!
 
-Question or comments? `Please send them my way! <mailto:nickeubank+pss@gmail.com>`_ Feedback of all sorts is greatly appreciated.
+Question or comments? `Please send them my way! <mailto:nickeubank+pss@gmail.com>`_ Feedback of all sorts is greatly appreciated, and if you have any experience with github, `suggested changes to this site can also be submitted as pull-requests here <https://github.com/nickeubank/python-for-social-scientists>`_.
 
 Contents:
 
