@@ -39,8 +39,14 @@ extensions = [
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
     'IPython.sphinxext.ipython_console_highlighting',
-    'IPython.sphinxext.ipython_directive'
+    'IPython.sphinxext.ipython_directive',
+    'sphinxcontrib.googleanalytics'
 ]
+
+# Googl analytics
+googleanalytics_id = 'UA-71192702-1'
+googleanalytics_enabled = True
+
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
