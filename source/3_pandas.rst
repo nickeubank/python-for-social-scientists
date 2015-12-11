@@ -26,18 +26,32 @@ Tutorials
 `Intro to Pandas (Greg Reda) <http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/>`_
 ---------------------------------------------------------------------------------------------------------------------------------
 
-A really nice, text-based tutorial. Very good for basics. 
+**Format:** Text / iPython Notebooks
+
+**Summary:** A really nice, text-based tutorial. Very good for basics. 
 
 `Pandas from the Ground Up (Brandon Rhodes) <https://www.youtube.com/watch?v=5JnMutdy6Fw>`_
 ---------------------------------------------------------------------------------------------------------------------------------
 
-One of two very good video introductions to `pandas` (the other is the Jonathan Rocher video below). I suggest watching a little of both of these and picking the one that suits your learning style. This tutorial is a little more "let's learn the principles of Pandas in the abstract then apply them", while the Rocher tutorial is a little more "let's learn as we do", but mix principles and examples well depending on your learning style. 
+**Format:** Video, with linked iPython notebooks
+
+**Summary:** One of two very good video introductions to `pandas` (the other is the Jonathan Rocher video below). I suggest watching a little of both of these and picking the one that suits your learning style. This tutorial is a little more "let's learn the principles of Pandas in the abstract then apply them", while the Rocher tutorial is a little more "let's learn as we do", but mix principles and examples well depending on your learning style. 
 
 `Make sure you download the associated materials here, not from the link in the video! <https://github.com/brandon-rhodes/pycon-pandas-tutorial>`_
 
 `Analyzing and Manipulating Data with Pandas (Jonathan Rocher) <https://www.youtube.com/watch?v=0CFFTJUZ2dc>`_
 ---------------------------------------------------------------------------------------------------------------------------------
 
-The second very good video introductions to `pandas`. Again, I suggest watching a little of both of these and picking the one that suits your learning style.
+**Format:** Video, with linked iPython notebooks
+
+**Summary:** The second very good video introductions to `pandas`. Again, I suggest watching a little of both of these and picking the one that suits your learning style.
 
 `Make sure you download the associated materials here! <https://github.com/jonathanrocher/pandas_tutorial>`_
+
+`Learn Pandas <https://bitbucket.org/hrojas/learn-pandas>`_
+---------------------------------------------------------------------------------------------------------------------------------
+
+**Format:** Text / iPython Notebooks
+
+**Summary:** Nice. A little dense, and a little more focused on getting users going than teaching basic organizing principles, but if you want to get to useable code fast, a good option. 
+

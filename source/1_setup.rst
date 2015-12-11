@@ -15,6 +15,7 @@ First, we want to download the Anaconda Python distribution. The Anaconda distri
 
 To install the Anaconda distribution, just go to the `Anaconda download page <https://www.continuum.io/downloads>`_ and pick the appropriate installer. **Make sure to get an installer for Python 3.x, not 2.x**! [#2v3]_
 
+
 Running Python
 ^^^^^^^^^^^^^^
 

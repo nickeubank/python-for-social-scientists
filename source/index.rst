@@ -10,11 +10,11 @@ Python is an increasingly popular tool for data analysis. In recent years, a num
 
 This site is designed to offer an introduction to Python specifically tailored for social scientists -- users with little or no serious programming experience who just want to get things done, and who have experience with programs like R and Stata but are anxious for something better. 
 
-If you've just landed here, your path depends on your background. If you're an R users, start with the :doc:`Note to R users page </python_for_r>`. If you're a Stata user, start with the :doc:`Note to Stata users page <python_for_stata>`. And if you've never worked with either, head on over to :doc:`Setup <1_setup>` to get started!
+If you've just landed here, your path depends on your background. If you're an R user, start with the :doc:`Note to R users page </python_for_r>`. If you're a Stata user, start with the :doc:`Note to Stata users page <python_for_stata>`. And if you've never worked with either, head on over to :doc:`Setup <1_setup>` to get started!
 
 The site begins with 4 numbered tutorials I recommend you visit in sequence -- a site for setting up Python on your computer using the Anaconda distribution, an intro to Python for those not familiar with the language, an introduction to the `pandas` library for working with tabular data (analogous to `data.frames` in R, or everything you ever did in Stata), and a guide to installing libraries to expand Python.  
 
-This is followed by a series of "topic" pages, which you should feel free to jump through as appropriate for your purposes: :doc:`statsmodels for econometrics </t_statsmodels>`, :doc:`seaborn </t_seaborn>` for graphing, :doc:`network analysis using igraph </t_igraph>`, :doc:`geo-spatial analysis</t_gis>`, :doc:`ways to accelerate Python </t_super_fast>`, :doc:`big data tools </t_big_data>`.
+This is followed by a series of "topic" pages, which you should feel free to jump through as appropriate for your purposes: :doc:`statsmodels for econometrics </t_statsmodels>`, :doc:`seaborn </t_seaborn>` for graphing, :doc:`network analysis using igraph </t_igraph>`, :doc:`geo-spatial analysis</t_gis>`, :doc:`ways to accelerate Python </t_super_fast>`, :doc:`big data tools </t_big_data>`, and :doc:`text analysis libraries </t_text_analysis>`.
 
 
 Ready to get started? Head on over to :doc:`Setup </1_setup>`!
@@ -39,4 +39,5 @@ Contents:
    t_igraph
    t_super_fast
    t_big_data
+   t_text_analysis
    r_to_python

@@ -45,7 +45,7 @@ One last note: in the Python world, the type of work you will probably be doing 
 Python and iPython
 -------------------
 
-At its core, Python has a simple, text-based interactive interface. However, there is also a program called `iPython` many people use when working interactively with Python. `iPython` is just a little program that sits between the user and Python itself that adds a few bells and whistles to make it a little easier to work with. What `iPython` can do is not really important here; what is important is that you not be surprised if you find different tutorials working with slightly different interfaces. 
+At its core, Python has a simple, text-based interactive interface. However, there is also a program called `iPython` many people use when working interactively with Python. `iPython` is just a little program that sits between the user and Python itself that adds a few bells and whistles to make it a little easier to work with. What `iPython` can do is not really important here; what is important is that you not be surprised if you find different tutorials working with slightly different interfaces. (If you see a tutorial with something called `Jupyter` notebooks, that's basically a special document that runs `iPython`).
 
 You can tell if someone is using Python or `iPython` by looking at the prompt on the screen. Python always has a simple three arrow icon (`>>>`). iPython has a more colorful interface that looks like this:
 
@@ -58,7 +58,7 @@ Tutorials
 ^^^^^^^^^^^
 
 `Python 3 Essentials <http://www.lynda.com/Python-3-tutorials/essential-training/62226-2.html>`_ from Lynda.com
-------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
 **Pre-requisites:** Some experience in another language like R or Java. If you've used for-loops and defined your own functions in another language, you're probably fine. 
 
 **The Good:** A really incredibly clear instructor and carefully designed class. Some assumed familiarity with programming, but not a lot. Lynda.com also offers ability to speed-up playback for sections that feel familiar or straightforward. Topics are carefully organized and indexed if you need to jump around. Includes a "Quick Start" section. 
@@ -102,7 +102,7 @@ Tutorials
 
 
 `Automate the Boring Stuff <https://automatetheboringstuff.com/>`_
------------------------------------------------------------------
+-------------------------------------------------------------------
 **Pre-requisites:** None! Though the name is a little weird, it seems like a great resource for social scientists. 
 
 **The Good:** Seems like a great introduction with essentially no assumed knowledge! The holy grail for absolute beginners. Also includes lectures (links to youtube at top of each section) for those who like it.

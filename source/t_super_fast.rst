@@ -24,6 +24,8 @@ To simplify somewhat, we can think of your computer as having two forms of stora
 
 **Important:** Just because your dataset is small enough it seems like it should fit into RAM doesn't mean this isn't relevant for you! Programs often make copies of your data when they manipulate it, so even if your dataset is 2gb and your have 8gb of RAM, the program you're using can very easy end up using all 8gb of RAM!
 
+If you can't get your data into memory, head on over to the :doc:`Big Data page for tools! <t_big_data>` for appropriate tools!
+
 3. Use other people's (compiled) functions
 --------------------------------------------
 

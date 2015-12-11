@@ -6,6 +6,11 @@ R-to-Python Table
 
 If you know of any existing sources for this type of table, `please send me an email letting me know! <mailto:nickeubank+pss@gmail.com>`_
 
+Outside Sources
+^^^^^^^^^^^^^^^^
+
+`A nice table of pandas-to-R translations. <https://dato.com/learn/translator/>`_
+
 Commands
 ^^^^^^^^^
 
