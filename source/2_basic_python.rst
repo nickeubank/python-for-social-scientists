@@ -118,6 +118,17 @@ Tutorials
 * Chapter 7, Chapter 10
 
 
+A Note on Omitted Tutorials
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Some users will note that I have left several relatively popular Python tutorials off this list. In most cases, this is due to the fact that I made an executive editorial decision early on in writing this website to make it "Python 3 Only". "Uh, what?" you say? 
+
+About a decade ago, Python version 3 was released. Python 3 changed several problems that existed in Python 2, but as a result, code written in Python 2 would no longer work. For a while, both Python 2 and Python 3 were supported side by side, and the world has taken a while to transition to Python 3.
+
+Many popular tutorials (like Python the Hard Way) are written in Python 2. As recently as a few years ago, this made sense because many important libraries weren't yet available in Python 3. Moreover, if you plan to be a software developer (the target of many tutorials), it's still absolutely necessarily you are familiar with both Python 2 and Python 3 since old code you will encounter at a company may still be in Python 2. 
+
+But for social scientists, I think it just make sense to start off with Python 3. `Almost all libraries <http://py3readiness.org/>`_ (especially in data-science) are updated, and Guido van Rossum (the Python "Benevolent Dictator for Life") has made it very clear there will never be another Python 2 release. With that in mind, I've been avoiding any tutorial written in Python 2. I think that asking social scientist to learn a programming language is hard enough; also asking them to learn the language AND understand all the small differences between 2 and 3 was just asking for trouble. 
+
 
 
 .. `Dive Into Python <http://www.diveinto.org/python3/>`_

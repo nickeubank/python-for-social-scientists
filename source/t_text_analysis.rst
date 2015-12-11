@@ -7,7 +7,9 @@ Python is a phenomenally good tool for text analysis, and there are a few good t
 Natural Language Tool Kit (NLTK)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The most used library in social science is probably `the "Natural Language Tool Kit", normally referred to as "NLTK" <http://www.nltk.org/>`_. The library has lots of tools, and is very user friendly. moreover, the site for NLTK not only includes some simple examples on the main page, but `also the full contents of the book "Language Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" by Steven Bird, Ewan Klein, and Edward Loper <http://www.nltk.org/book/>`_ (talk about generous!). However, if you want a paper copy, you can also find it on `Amazon here <http://www.amazon.com/Natural-Language-Processing-Python-Steven/dp/0596516495>`_. 
+The most used library in social science is probably `the "Natural Language Tool Kit", normally referred to as "NLTK" <http://www.nltk.org/>`_. The library has lots of tools, and is very user friendly. 
+
+Moreover, the site for NLTK not only includes some simple examples on the main page, but also the full contents of the book `"Language Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" <http://www.nltk.org/book/>`_ by Steven Bird, Ewan Klein, and Edward Loper (talk about generous!). However, if you want a paper copy, you can also find it on `Amazon here <http://www.amazon.com/Natural-Language-Processing-Python-Steven/dp/0596516495>`_. 
 
 Stanford CoreNLP
 ^^^^^^^^^^^^^^^^^
