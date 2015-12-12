@@ -48,6 +48,7 @@ Tutorials
 
 `Make sure you download the associated materials here! <https://github.com/jonathanrocher/pandas_tutorial>`_
 
+
 `Learn Pandas <https://bitbucket.org/hrojas/learn-pandas>`_
 ---------------------------------------------------------------------------------------------------------------------------------
 
