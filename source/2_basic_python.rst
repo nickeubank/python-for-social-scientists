@@ -42,10 +42,14 @@ If you try one of these and find my annotations inaccurate, please `send me a no
 
 One last note: in the Python world, the type of work you will probably be doing is called "scientific computing", so if you're trying to find tailored resources, that's a great search term!
 
-Python and iPython
--------------------
+Interacting with Python
+------------------------
 
-At its core, Python has a simple, text-based interactive interface. However, there is also a program called `iPython` many people use when working interactively with Python. `iPython` is just a little program that sits between the user and Python itself that adds a few bells and whistles to make it a little easier to work with. What `iPython` can do is not really important here; what is important is that you not be surprised if you find different tutorials working with slightly different interfaces. (If you see a tutorial with something called `Jupyter` notebooks, that's basically a special document that runs `iPython`).
+There are three ways you may see people use Python: interactively with Python, interactively with iPython, and by executing a saved file. They're all basically equivalent, but I want to highlight them so you aren't surprised if you see them. 
+
+**Interactive Use**: Most social scientists work with Python interactively -- you open a session, and execute your code one line at a time, just like in Stata or R. 
+
+At its core, Python has a simple, text-based interactive interface. However, there is also a program called `iPython` many people use when working interactively with Python. `iPython` is just a little program that sits between the user and Python itself that adds a few bells and whistles to make it a little easier to work with. What `iPython` can do is not really important here; what is important is that you not be surprised if you find different tutorials working with slightly different interfaces. (If you see a tutorial with something called `Jupyter` notebooks, that's basically a special document that runs `iPython`). You can learn more about :doc:`iPython and Jupyter notebooks when you're ready here </st_ipython>`.
 
 You can tell if someone is using Python or `iPython` by looking at the prompt on the screen. Python always has a simple three arrow icon (`>>>`). iPython has a more colorful interface that looks like this:
 
@@ -53,6 +57,9 @@ You can tell if someone is using Python or `iPython` by looking at the prompt on
 
    print('hello!')
 
+**Running Files:** The other way to use Python -- more common among software developers -- is to write your python into a file, save it as `something.py`, then run that file by openning a command line interface and typing `python something.py`. This is analogous to openning Python, executing each line, then closing Python. 
+
+**Don't know what I mean by Command Line?** Cool! You don't need to know much about it to work with Python, but you should know enough you're not scared of it. Take 10 minutes to run over to :doc:`ST:Command Line </st_command_line>` for a quick overview. 
 
 Tutorials
 ^^^^^^^^^^^
@@ -77,6 +84,16 @@ Tutorials
 * Section 9
 
 **Other Notes:** About a decade ago Python began a transition from version 2 to version 3 (for reasons that aren't worth getting into, this was a somewhat controversial move, but it's basically done at this point). This was published in part to help with that transition, so if you hear digressions about how Python 3 is different from Python 2, that's why. 
+
+`Python for Data Science <http://nbviewer.ipython.org/github/gumption/Python_for_Data_Science/blob/master/Python_for_Data_Science_all.ipynb>`_
+----------------------------------------------------------------------
+
+**Pre-requisites:** None, it appears!
+
+**The Good:** A nice, focused, "let's get going" text-based tutorial for social scientists. Doesn't waste much time on things like classes, which I really appreciate!
+
+**The Bad:** It talks a lot about differences between Python 2 and Python 3. As noted elsewhere on this site, you should really only work in Python 3. This is Python 3 focused, but you'll have to wade through some junk about Python 2. 
+
 
 
 `Python for You and Me <http://pymbook.readthedocs.org/en/latest/>`_

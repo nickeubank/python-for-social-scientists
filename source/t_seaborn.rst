@@ -7,7 +7,7 @@ The low-level library for making figures in Python is called `matplotlib`. It's 
 ggplot
 ^^^^^^^^^^^^^^^^^^^^^
 
-If you're accustomed to using `ggplot` in R, then good news: the folks at yhat have duplicated it's functionality in Python! 
+If you're accustomed to using `ggplot` in R, then good news: the folks at yhat have duplicated it's functionality in Python! This library is still quite young, but seems very promising. 
 
 * `ggplot Overview <http://ggplot.yhathq.com/how-it-works.html>`_
 * `Installation <http://ggplot.yhathq.com/install.html>`_
@@ -23,4 +23,3 @@ The other very popular library for plotting is called `seaborn`. It's build on t
 * `Tutorial <https://stanford.edu/~mwaskom/software/seaborn/tutorial/distributions.html>`_. (Note this is not the default tutorial on the `seaborn` site, but another one that's hidden away I actually much prefer!)
 
 At the time of this is being written, `seaborn` did not come with Anaconda by default, but can be easily added by typing `conda install seaborn` in your terminal window.
-
