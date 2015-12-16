@@ -18,7 +18,7 @@ First, there is a collection of four numbered tutorials that cover core skills e
 
 The second section is a series "topic" pages, which you should feel free to jump through as appropriate for your purposes: :doc:`statsmodels for econometrics </t_statsmodels>`, :doc:`seaborn and ggplot </t_seaborn>` for graphing, :doc:`network analysis using igraph </t_igraph>`, :doc:`geo-spatial analysis</t_gis>`, :doc:`ways to accelerate Python </t_super_fast>`, :doc:`big data tools </t_big_data>`, and :doc:`text analysis libraries </t_text_analysis>`. The topic pages also include two topics that are a little unusual, but I think potentially quite useful: guide to :doc:`getting effective help online </t_getting_help>`, and resources on evidence-based research on :doc:`how to teach programming </t_teaching_programming>` for anyone teaching this material.
 
-Finally, the third section -- pages with the prefix "ST" are pages for Software Tools. These are resources on tools and programs you may come across while using Python with descriptions of the tool, guidance on what you need to know most, and links to other tutorials. 
+Finally, the third section -- pages with the prefix "ST" are pages for Software Tools. These are resources on tools and programs you may come across while using Python with descriptions of the tool, guidance on what you need to know most, and links to other tutorials. These include pages on the :doc:`Command Line </st_command_line>`, :doc:`iPython </st_ipython>`, and :doc:`Git and Github </st_git_and_github>`.
 
 
 Ready to get started? Head on over to :doc:`Setup </1_setup>`!
@@ -49,3 +49,5 @@ Contents:
    r_to_python
    st_ipython
    st_command_line
+   st_git_and_github
+   
