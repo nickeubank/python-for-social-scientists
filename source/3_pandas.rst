@@ -12,13 +12,9 @@ Advice
 
 Many things about `pandas` will seem familiar to users of other languages like Matlab, R, or Stata, and most differences are relatively obvious. However, there are two things I think most tutorials under-emphasize I want to alert you to: 
 
-* **Indices:** Most languages (like R, Matlab, and Stata) organize data based on it's order. In R, for example, if you `cbind` two vectors, they attached to one another based on the order of rows. 
+* **Indices:** Most languages (like R, Matlab, and Stata) organize data based on it's order. In R, for example, if you `cbind` two vectors, they attached to one another based on the order of rows. In `pandas`, every row of a DataFrame has a name (an index label), and most things in `pandas` are designed to keep careful track of those index labels, and where possible to make sure that when different objects are combined, they are always `aligned` according to those indices. 
 
-In `pandas`, every row of a DataFrame has a name (an index label), and most things in `pandas` are designed to keep careful track of those index labels, and where possible to make sure that when different objects are combined, they are always `aligned` according to those indices. 
-
-* **Changes:** As of late 2015, `pandas` was in version 0.18. Until Version 1, `pandas` developers are likely to feel relatively free to make changes to some core functions in `pandas` to improve the language. For example, in mid-2015, the `sort` function was changed to help make the behavior more intuitive. 
-
-So you're aware of changes, I strongly recommend subscribing to the `pydata Google Group Mailing List <https://groups.google.com/forum/#!forum/pydata>`_ so when updates to `pandas` come out you'll be alerted and get a summary of changes. 
+* **Changes:** As of late 2015, `pandas` was in version 0.18. Until Version 1, `pandas` developers are likely to feel relatively free to make changes to some core functions in `pandas` to improve the language. For example, in mid-2015, the `sort` function was changed to help make the behavior more intuitive. So you're aware of changes, I strongly recommend subscribing to the `pydata Google Group Mailing List <https://groups.google.com/forum/#!forum/pydata>`_ so when updates to `pandas` come out you'll be alerted and get a summary of changes. 
 
 Tutorials
 ^^^^^^^^^^^

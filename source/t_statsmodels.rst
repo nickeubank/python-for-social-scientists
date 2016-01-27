@@ -2,12 +2,15 @@
 Stats with statsmodels
 =========================
 
-`statsmodels` is the go-to library for doing econometrics (linear regression, logit regression, etc.). I haven't yet found any great tutorials, but the interface is pretty simple, and you can find most important things covered on `the statsmodel page here <http://statsmodels.sourceforge.net/devel/>`_, especially the pages on OLS `here <http://statsmodels.sourceforge.net/devel/example_formulas.html>`_ and `here <http://statsmodels.sourceforge.net/devel/examples/notebooks/generated/ols.html>`_.
+`statsmodels` is the go-to library for doing econometrics (linear regression, logit regression, etc.). 
 
+You can find a `good tutorial here <http://nbviewer.ipython.org/urls/s3.amazonaws.com/datarobotblog/notebooks/multiple_regression_in_python.ipynb>`_.
 
-If you want to do machine learning, by the way, the library is `scikit-learn <http://scikit-learn.org/stable/>`_.
+The most important things are also covered on `the statsmodel page here <http://statsmodels.sourceforge.net/devel/>`_, especially the pages on OLS `here <http://statsmodels.sourceforge.net/devel/example_formulas.html>`_ and `here <http://statsmodels.sourceforge.net/devel/examples/notebooks/generated/ols.html>`_.
 
-But here are some simple illustrative examples of standard OLS:
+(If you want to do machine learning, by the way, the library is `scikit-learn <http://scikit-learn.org/stable/>`_.)
+
+Here are some simple illustrative examples of standard OLS:
 
 On with the show:
 

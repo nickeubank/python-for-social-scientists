@@ -11,6 +11,12 @@ The most used library in social science is probably `the "Natural Language Tool 
 
 Moreover, the site for NLTK not only includes some simple examples on the main page, but also the full contents of the book `"Language Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" <http://www.nltk.org/book/>`_ by Steven Bird, Ewan Klein, and Edward Loper (talk about generous!). However, if you want a paper copy, you can also find it on `Amazon here <http://www.amazon.com/Natural-Language-Processing-Python-Steven/dp/0596516495>`_. 
 
+
+TextBlob
+^^^^^^^^^^^^^
+`TextBlob <https://textblob.readthedocs.org/en/dev/index.html>`_ is a nice looking new library that seems to have a *very* streamlined interface. The library appears to actually use NLTK and another library (`pattern <http://www.clips.ua.ac.be/pages/pattern-en>`_) in the background, so much of the functionality should be similar to NLTK itself. 
+
+
 Stanford CoreNLP
 ^^^^^^^^^^^^^^^^^
 
