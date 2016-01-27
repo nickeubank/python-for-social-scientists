@@ -26,10 +26,11 @@ Need immediately:
 * Understanding mutable versus immutable data types
 * Methods for manipulating strings
 * Importing third party modules
+* Reading and interpreting errors
 
 Things you'll want to know at some point, but not necessary immediately:
 
-* Debugging
+* Advanced debugging utilities (like pdb)
 * File input / output (most libraries you'll use have tools to simplify this for you)
 
 Don't need:
