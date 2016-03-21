@@ -1,5 +1,3 @@
-# python-for-social-scientists
-Python for Social Scientists
+We've moved! We're now at www.data-analysis-in-python.org in the hopes of reaching a broader audience. 
 
-Welcome to the git repository for www.pythonforsocialscientists.org ! 
-
+The new git repo is at https://github.com/nickeubank/data-analysis-in-python 
